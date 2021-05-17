@@ -5613,6 +5613,11 @@ mute-stream@0.0.8:
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
   integrity sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==
 
+mxp-library@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/mxp-library/-/mxp-library-1.0.1.tgz#d8b31e2e663c9a737913c6b4e622c7b59c79d169"
+  integrity sha512-GIon8hf9QMYAPAvQI7D7/zGFAD8SObzW/Ezi6iW/EgE0rz66PHf9gOSl/mg6gk0AOh03PLT6cukNzKV1zTkneQ==
+
 mz@^2.4.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/mz/-/mz-2.7.0.tgz#95008057a56cafadc2bc63dde7f9ff6955948e32"
